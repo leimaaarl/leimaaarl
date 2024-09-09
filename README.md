@@ -1,4 +1,4 @@
-Hello, I'm Leimarl Doelle Luares 👋
+Hello, I'm Leimarl 👋
 
 
 💻 Tech Stack
